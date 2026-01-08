@@ -10,9 +10,12 @@
 <meta content="TRADINGPRO" property="og:site_name"/>
 <meta content="TRADINGPRO – Solusi Trading Terpadu untuk Analisa Pasar Saham, Forex, dan Aset Digitalk" property="og:title"/>
 <meta content="TRADINGPRO adalah solusi trading terpadu untuk analisa pasar saham, forex, dan aset digital yang dirancang agar trader dapat mengambil keputusan dengan lebih terarah. Melalui bot Telegram, TRADINGPRO menyediakan analisa teknikal otomatis yang mencakup trend pasar, signal BUY dan SELL, serta level entry, take profit, dan stop loss. Platform ini mendukung saham Indonesia, forex utama termasuk gold, serta berbagai aset kripto. Dengan sistem anti spam yang aman digunakan di grup maupun chat pribadi, TRADINGPRO berfungsi sebagai alat bantu analisa dan edukasi trading untuk trader pemula hingga profesional." property="og:description"/>
-<meta content="https://www.oakvillekitchenandbathrenovations.com/oakville-renovations.html" property="og:url"/>
+<meta content="hhttps://tredingpro.github.io/" property="og:url"/>
 <meta content="https://raw.githubusercontent.com/top4n/tredingpro.github.io/refs/heads/main/icon.png" property="og:image"/>
 <meta content="index, follow" name="robots"/>
+<meta name="google-site-verification" content="tvDXnP9wskiv4VuUY0ZhMU79EN9HSn5_X_MWi_zFhsM" />
+<meta name="google-site-verification" content="tvDXnP9wskiv4VuUY0ZhMU79EN9HSn5_X_MWi_zFhsM" />
+<meta name="google-site-verification" content="tvDXnP9wskiv4VuUY0ZhMU79EN9HSn5_X_MWi_zFhsM" />
 <meta content="product" property="og:type"/>
 <meta content="TRADINGPRO" property="og:image:alt"/>
 <meta content="instock" property="og:availability"/>
